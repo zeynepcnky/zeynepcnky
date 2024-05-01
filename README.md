@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Zeynep</h1>
 <h3 align="center">I'm a student of health scince who passionated programming</h3>
 
