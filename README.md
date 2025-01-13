@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zeynep</h1>
-<h3 align="center">I'm a student of health scince who passionated programming</h3>
+<h3 align="center">I'm computer programing student</h3>
 
-- 🌱 I’m currently learning **Spring Boot, Kotlin**
+- 🌱 I’m currently learning **Swift**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
