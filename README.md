@@ -1,7 +1,9 @@
 <h1 align="center">I'm Zeynep</h1>
 <h3 align="center">I'm computer programing student 👩🏻‍🏫 </h3>
 
-- 🌱 currently focus on **Swift** 
+  
+- 💻 Learning iOS app development and SwiftUI
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
